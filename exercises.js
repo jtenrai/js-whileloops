@@ -18,7 +18,11 @@ while (i<10){
 
 /*1. Use a while loop and print out a list of numbers from 1 to 10*/
 
-
+var i = 1;
+while (i<11){
+	console.log('1. printList ' + i);
+	i++;
+}
 
 /*2. Use a while loop to create the following message:
 
